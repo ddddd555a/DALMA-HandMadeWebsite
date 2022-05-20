@@ -6,9 +6,7 @@
 
 The theme I chose for the handmade website is DharmaTalk in Buddhism. Buddhism is a religion that gave me great lessons while I was in army. I learned how to look every objects and human being as a process that has cause and effect. No other emotions were interupting me while I tried to maintain the eyes of 'truth'.
 <br>
-Dharma was a semi-legendary Buddhist monk who lived during the 5th or 6th century. And the name has a meaning of the eternal and inherent nature of reality, regarded in Hinduism as a cosmic law underlying right behavior and social order.
-<br>
-A Dharma talk (Sanskrit) is a public discourse on Buddhism by a Buddhist teacher.
+A Dharma talk (Sanskrit) is a public discourse on Buddhism by a Buddhist teacher. Dharma was a semi-legendary Buddhist monk who lived during the 5th or 6th century. And the name has a meaning of the eternal and inherent nature of reality, regarded in Hinduism as a cosmic law underlying right behavior and social order.
 <br>
 Here in the website, I introdue three quotes that teaches you one of the greatest lessons in Buddhism.
 
